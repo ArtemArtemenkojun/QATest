@@ -1,0 +1,10 @@
+1. download QATestJAR file
+2. run windows command line
+   2.1 go to the folder where the file is installed QATest.jar
+   2.2 enter the command java -jar QATest.jar
+   or
+   2.3 go to the folder where the file is installed QATest.bat
+   2.4 enter the command  QATest.bat
+or
+3. run file QATest.bat
+
